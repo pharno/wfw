@@ -1,4 +1,5 @@
 from autoloader import autoloader
 
-class Controller(autoloader):
+
+class Model(autoloader):
 	pass

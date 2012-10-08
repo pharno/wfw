@@ -1,6 +1,7 @@
+from autoloader import autoloader
 
 
-class library(object):
+class library(autoloader):
 	def __init__(self,cont):
 		self.cont = cont
 
